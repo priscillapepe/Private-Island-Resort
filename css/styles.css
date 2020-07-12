@@ -1,0 +1,24 @@
+h1{
+    color:blue;
+    text-align: center;
+}
+h2{
+    color: darkblue;
+    text-align: center;
+}
+p{
+    font-family: monospace;
+    font-size: large;
+    text-decoration-color: blueviolet;
+}
+body{
+    background-color:skyblue;
+}
+nav>ul>li {
+    text-decoration-color:rgb(121, 121, 199);
+    font-family: sans-serif;
+}
+images{
+    flex-direction: row;
+    float: center;
+}
